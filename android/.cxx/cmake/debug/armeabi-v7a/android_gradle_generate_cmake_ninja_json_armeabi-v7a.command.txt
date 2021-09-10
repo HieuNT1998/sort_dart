@@ -1,0 +1,14 @@
+Executable : /home/hieunt/Android/Sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/home/hieunt/Binding_Flutter/sort_dart/android
+-B/home/hieunt/Binding_Flutter/sort_dart/android/.cxx/cmake/debug/armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-16
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/hieunt/Binding_Flutter/sort_dart/example/build/sort_dart/intermediates/cmake/debug/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=/home/hieunt/Android/Sdk/ndk/22.1.7171670
+-DCMAKE_TOOLCHAIN_FILE=/home/hieunt/Android/Sdk/ndk/22.1.7171670/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/home/hieunt/Android/Sdk/cmake/3.6.4111459/bin/ninja
+-GAndroid Gradle - Ninja
+jvmArgs : 
+

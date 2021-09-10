@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/home/hieunt/Binding_Flutter/sort_dart/example/android",
+      "sdkFolder": "/home/hieunt/Android/Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/home/hieunt/Binding_Flutter/sort_dart/example/build/sort_dart/intermediates",
+      "gradleModulePathName": ":sort_dart",
+      "moduleRootFolder": "/home/hieunt/Binding_Flutter/sort_dart/android",
+      "makeFile": "/home/hieunt/Binding_Flutter/sort_dart/android/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/home/hieunt/Binding_Flutter/sort_dart/example/android/.cxx",
+      "cxxFolder": "/home/hieunt/Binding_Flutter/sort_dart/android/.cxx",
+      "ndkFolder": "/home/hieunt/Android/Sdk/ndk/22.1.7171670",
+      "ndkVersion": "22.1.7171670",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/home/hieunt/Binding_Flutter/sort_dart/example/build/sort_dart/intermediates/cmake/debug/lib",
+    "objFolder": "/home/hieunt/Binding_Flutter/sort_dart/example/build/sort_dart/intermediates/cmake/debug/obj",
+    "jsonFolder": "/home/hieunt/Binding_Flutter/sort_dart/android/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/home/hieunt/Binding_Flutter/sort_dart/android/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/home/hieunt/Binding_Flutter/sort_dart/android/.cxx/cmake/debug/armeabi-v7a",
+  "jsonFile": "/home/hieunt/Binding_Flutter/sort_dart/android/.cxx/cmake/debug/armeabi-v7a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/home/hieunt/Binding_Flutter/sort_dart/android/.cxx/cxx/debug/armeabi-v7a",
+  "objFolder": "/home/hieunt/Binding_Flutter/sort_dart/example/build/sort_dart/intermediates/cmake/debug/obj/armeabi-v7a",
+  "buildCommandFile": "/home/hieunt/Binding_Flutter/sort_dart/android/.cxx/cmake/debug/armeabi-v7a/build_command.txt",
+  "buildOutputFile": "/home/hieunt/Binding_Flutter/sort_dart/android/.cxx/cmake/debug/armeabi-v7a/build_output.txt",
+  "modelOutputFile": "/home/hieunt/Binding_Flutter/sort_dart/android/.cxx/cmake/debug/armeabi-v7a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/home/hieunt/Binding_Flutter/sort_dart/android/.cxx/cxx/debug/armeabi-v7a/CMakeLists.txt",
+    "toolchainWrapperFile": "/home/hieunt/Binding_Flutter/sort_dart/android/.cxx/cxx/debug/armeabi-v7a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/home/hieunt/Binding_Flutter/sort_dart/android/.cxx/cxx/debug/armeabi-v7a/build_generation_state.json",
+    "cacheKeyFile": "/home/hieunt/Binding_Flutter/sort_dart/android/.cxx/cxx/debug/armeabi-v7a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/home/hieunt/Binding_Flutter/sort_dart/android/.cxx/cxx/debug/armeabi-v7a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/home/hieunt/Binding_Flutter/sort_dart/android/.cxx/cxx/debug/armeabi-v7a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/home/hieunt/Binding_Flutter/sort_dart/android/.cxx/cxx/debug/armeabi-v7a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/home/hieunt/Binding_Flutter/sort_dart/android/.cxx/cmake/debug/armeabi-v7a/json_generation_record.json",
+  "compileCommandsJsonFile": "/home/hieunt/Binding_Flutter/sort_dart/android/.cxx/cmake/debug/armeabi-v7a/compile_commands.json"
+}
